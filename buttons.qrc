@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/buttons">
+        <file>buttons/pencil.png</file>
+        <file>buttons/eraser.png</file>
+        <file>buttons/copy.png</file>
+        <file>buttons/fill.png</file>
+        <file>buttons/frameadd.png</file>
+        <file>buttons/frameremove.png</file>
+        <file>buttons/paste.png</file>
+        <file>buttons/rotate.png</file>
+        <file>buttons/mouse.png</file>
+        <file>buttons/pause.png</file>
+        <file>buttons/play.png</file>
+        <file>buttons/erasercursor.png</file>
+        <file>buttons/pencilcursor.png</file>
+        <file>buttons/fastForward.png</file>
+        <file>buttons/rewind.png</file>
+    </qresource>
+</RCC>
